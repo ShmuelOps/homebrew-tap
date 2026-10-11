@@ -1,6 +1,6 @@
 cask "typingfixer" do
-  version "0.5.1"
-  sha256 "866f2d5f126198124d1fcca32bf440618b12a0cc7c2dcf065f3f57b9265ff764"
+  version "0.6.0"
+  sha256 "f6dbfad6e5b8bf9f56e42658d1324d9d0fb77e5f1a4bbeaa9e61a46ef1b1e090"
 
   url "https://github.com/ShmuelOps/typingfixer/releases/download/v#{version}/TypingFixer-#{version}.dmg"
   name "TypingFixer"
