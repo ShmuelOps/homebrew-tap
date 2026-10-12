@@ -7,7 +7,7 @@ cask "typingfixer" do
   desc "Fixes Hebrew/English text typed in the wrong keyboard layout"
   homepage "https://github.com/ShmuelOps/typingfixer"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "TypingFixer.app"
 
